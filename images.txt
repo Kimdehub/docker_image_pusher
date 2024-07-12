@@ -7,4 +7,4 @@ xhofe/alist:latest
 nyanmisaka/jellyfin:latest
 linuxserver/jackett:latest
 allanpk716/chinesesubfinder:latest
-
+jlesage/firefox:latest
